@@ -1,2 +1,2 @@
 # Machine-Learning-Specialization
-This repo contains all important Machine Learning notebooks
+Linear Regression, Logistic Regression From Scratch
