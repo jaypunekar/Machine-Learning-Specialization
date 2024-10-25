@@ -1,2 +1,2 @@
 # Machine-Learning-Specialization
-Linear Regression, Logistic Regression From Scratch
+Implementation of Linear Regression and Logistic Regression From Scratch 
